@@ -1,0 +1,36 @@
+# --- Compiled Binaries ---
+*.out
+*.exe
+*.app
+# If you name your output 'main' or 'app' without an extension
+main
+app
+
+# --- Objects and Libraries ---
+*.o
+*.obj
+*.a
+*.la
+*.lo
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# --- Debug Symbols & Metadata ---
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# --- Build Directories ---
+build/
+bin/
+obj/
+
+# --- IDE & Editor folders ---
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
