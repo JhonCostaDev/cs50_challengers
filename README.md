@@ -1,4 +1,60 @@
-# CS50's Introduction to Computer Science
+# CS50's Introduction to Computer Science - Harvard University
+
+<p align="center">
+  <a href="#english">English</a> • 
+  <a href="#português">Português</a>
+</p>
+
+---
+
+<a name="english"></a>
+## English 🇺🇸
+
+This repository contains my solutions for the Problem Sets and labs from **CS50x**, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.
+
+### 🚀 Technologies Used
+* **C**: Memory management, pointers, and data structures.
+* **Python**: Web development, automation, and data processing.
+* **SQL**: Relational database management and complex queries.
+* **HTML/CSS/JS**: Front-end fundamentals.
+* **Flask**: Web framework for server-side logic.
+
+### 📁 Structure
+* **Weeks 0-5**: Low-level concepts using C (Algorithms, Memory, Data Structures).
+* **Weeks 6-9**: High-level programming with Python, SQL, and Web Development.
+* **Final Project**: An independent software project applying everything learned.
+
+---
+
+<a name="português"></a>
+## Português 🇧🇷
+
+Este repositório contém as minhas resoluções dos "Problem Sets" e laboratórios do **CS50x**, o curso introdutório de ciência da computação da Harvard University.
+
+### 🚀 Tecnologias Utilizadas
+* **C**: Gerenciamento de memória, ponteiros e estruturas de dados.
+* **Python**: Desenvolvimento web, automação e processamento de dados.
+* **SQL**: Bancos de dados relacionais e consultas complexas.
+* **HTML/CSS/JS**: Fundamentos de front-end.
+* **Flask**: Framework web para lógica de servidor.
+
+### 📁 Estrutura
+* **Semanas 0-5**: Conceitos de baixo nível usando C (Algoritmos, Memória, Estruturas de Dados).
+* **Semanas 6-9**: Programação de alto nível com Python, SQL e Desenvolvimento Web.
+* **Projeto Final**: Um projeto de software independente aplicando todo o conhecimento adquirido.
+
+---
+
+## 🛠️ Execution / Execução
+
+```bash
+# English: Compile a C file
+# Português: Compilar um arquivo em C
+make hello
+
+# English: Run a Python script
+# Português: Executar um script Python
+python dna.py# CS50's Introduction to Computer Science
 
 # CS50's Introduction to Computer Science - Harvard University 🎓
 
