@@ -63,11 +63,11 @@ Este repositório contém as minhas resoluções dos "Problem Sets" e laboratór
 ## 🚀 Tecnologias Utilizadas
 
 Durante o curso, utilizei as seguintes linguagens e ferramentas:
-* **C** (Gerenciamento de memória, algoritmos e estruturas de dados)
-* **Python** (Automação, processamento de dados e desenvolvimento web)
-* **SQL** (Modelagem e consulta de bancos de dados relacionais)
-* **HTML/CSS/JavaScript** (Fundamentos de desenvolvimento front-end)
-* **Flask** (Framework web em Python)
+* **C** (Gerenciamento de memória, algoritmos e estruturas de dados) - IN PROGRESS...
+* **Python** (Automação, processamento de dados e desenvolvimento web) IN PROGRESS...
+* **SQL** (Modelagem e consulta de bancos de dados relacionais)        IN PROGRESS...
+* **HTML/CSS/JavaScript** (Fundamentos de desenvolvimento front-end)   IN PROGRESS...
+* **Flask** (Framework web em Python)                                  IN PROGRESS...
 
 ## 📁 Estrutura do Repositório
 

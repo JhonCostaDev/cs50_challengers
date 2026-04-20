@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//prototyping the functions used in the program
 int getValue(void);
 void countCoins(int *quater, int *dime, int *nickel, int *penny, int change);
 
